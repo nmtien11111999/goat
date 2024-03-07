@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+}
+table {
+    width: 80%;
+    height: 700px;
+    margin-left: 10%;
+}
+.a {
+    background-color: white;
+    padding-right: 40px;
+}
+.b {
+    background-color: black;
+    padding-right: 40px;
+}
